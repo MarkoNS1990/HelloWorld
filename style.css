@@ -5,6 +5,7 @@
 */
 body {
   margin: 0;
+  background-color: aquamarine;
 }
 
 :root {
@@ -40,7 +41,3 @@ a:hover {
                 ****** GLOBAL ******
     ==============================================
 */
-
-body {
-  background-color: aquamarine;
-}
