@@ -40,3 +40,7 @@ a:hover {
                 ****** GLOBAL ******
     ==============================================
 */
+
+body {
+  background-color: aquamarine;
+}
